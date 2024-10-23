@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadiqbalmaulana2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadiqbalmaulana2001" /> </p>
 
-- 🔭 I’m currently working on **machine learning from Bangkit Academy**
+- 🔭 I’m currently cohort on **machine learning from Bangkit Academy**
 
-- 🌱 I’m currently learning **data analyst and machine learning**
+- 🌱 I’m currently learning **DeepLearning.AI TensorFlow Developer Professional **
 
 - 👯 I’m looking to collaborate on **mobile develops and cloud computing from bangkit**
 
